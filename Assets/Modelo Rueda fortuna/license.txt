@@ -1,0 +1,11 @@
+Model Information:
+* title:	Festival blocking
+* source:	https://sketchfab.com/3d-models/festival-blocking-c7c0ffb1943d44ae8fe91387870cd160
+* author:	Enkarra (https://sketchfab.com/Enkarra)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Festival blocking" (https://sketchfab.com/3d-models/festival-blocking-c7c0ffb1943d44ae8fe91387870cd160) by Enkarra (https://sketchfab.com/Enkarra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
